@@ -1,0 +1,59 @@
+[00:02:14,000 - 00:02:36,340] - Desilusão e frustração: "Sargeta Sem Limites"
+[00:04:25,120 - 00:04:56,120] - Autoquestionamento e incerteza: "Manifesto Pessoal"
+[00:08:53,200 - 00:09:01,000] - Oportunidade e tentativa de ajuda: "Consultoria Inesperada"
+[00:10:41,399 - 00:12:10,079] - Confronto e autodescoberta: "Cobranças Internas"
+
+[00:13:32,399 --> 00:13:59,480] - Memórias Despertadas: O personagem relembra detalhes de um livro que leu há anos, desencadeando memórias de uma situação específica e as emoções associadas a ela.
+
+[00:14:04,720 --> 00:14:25,360] - Investigação e Intriga: Discussão sobre teorias envolvendo a autoria das decisões de um juiz e sugestões de investigação para descobrir a verdade por trás delas.
+
+[00:14:29,680 --> 00:15:03,560] - Nostalgia e Reflexão: O personagem contempla sobre o passado, examinando memórias antigas e as conexões que elas têm com o presente, enquanto reflete sobre suas escolhas e sentimentos.
+
+[00:16:32,000 --> 00:19:56,200] - Insegurança e Desespero: O protagonista expressa seu desconforto com a situação em que se encontra, manifestando ansiedade e incerteza sobre seu futuro, enquanto tenta lidar com uma crise pessoal.
+
+[00:20:00,440 --> 00:25:53,679] - Suspense e Investigação: A trama se desenvolve com a descoberta de um homicídio, levando a uma atmosfera de suspense e uma investigação para entender os detalhes do ocorrido e os motivos por trás dele.
+
+[00:25:56,919 --> 00:27:30,120] - Aumento das Habilidades Cognitivas: O personagem experimenta uma melhoria significativa em suas habilidades cognitivas devido ao efeito de um comprimido, demonstrando um aumento de conhecimento e capacidade intelectual.
+
+[00:27:57,120 --> 00:28:27,360] - Conhecimento Abrangente: O protagonista revela uma compreensão abrangente de diversos assuntos, refletindo sobre sua capacidade recém-adquirida de absorver conhecimento e fazer conexões entre diferentes áreas.
+
+[28:38 - 30:02] - Estratégias financeiras: Sem título
+[33:30 - 34:36] - Reconhecimento do sucesso financeiro: Sem título
+[36:13 - 37:13] - Reconhecimento de habilidades especiais: Sem título
+[38:07 - 40:38] - Desenvolvimento de uma estratégia de investimento: Sem título
+
+[00:41:21,119 - 00:42:12,319] - Ambição e Consequências: Sem Limites
+[00:42:23,599 - 00:42:49,920] - Reflexão sobre as Consequências: O protagonista avalia as escolhas e os possíveis resultados de suas ações.
+[00:43:02,720 - 00:43:22,910] - Desafios e Superando Limites: O protagonista enfrenta obstáculos e emprega suas habilidades de forma excepcional.
+[00:43:26,119 - 00:43:39,489] - Reconhecimento: O protagonista recebe reconhecimento público por suas ações.
+[00:43:49,040 - 00:44:00,440] - Inesperado: O protagonista encontra-se em uma situação inesperada e precisa lidar com ela.
+[00:44:08,160 - 00:44:59,030] - Treinamento e Aprimoramento: O protagonista recebe orientações sobre como melhorar suas habilidades.
+[00:44:59,030 - 00:45:19,640] - Combate e Adversidade: O protagonista enfrenta um desafio físico.
+[00:45:49,040 - 00:46:37,720] - Reflita sobre o Passado: O protagonista reflete sobre eventos anteriores e como eles moldaram sua vida.
+[00:46:40,680 - 00:47:06,920] - Tragédia e Perda: Um personagem importante é confrontado com uma perda significativa.
+[00:47:22,680 - 00:51:20,079] - Investigação e Descobertas: O protagonista investiga um mistério e faz descobertas importantes.
+[00:52:17,620 - 00:56:59,839] - Consequências do Uso de Drogas: Discussão sobre os efeitos colaterais do uso de uma droga experimental.
+[00:57:00,670 - 00:57:17,200] - Advertência sobre as Consequências: O protagonista recebe um aviso sobre os perigos de parar de usar a droga bruscamente.
+
+[01:03:26 - 01:03:34] - Desespero e decisões drásticas: O protagonista enfrenta uma situação de perigo iminente e precisa tomar decisões rápidas para tentar sobreviver.
+
+[01:06:29 - 01:06:47] - Reconciliação e promessas: Após um momento de tensão e perigo, os personagens principais expressam sentimentos de amor e compromisso, prometendo cuidar um do outro e planejando um futuro juntos.
+
+[01:09:10 - 01:09:47] - Consequências do uso da droga: Discute-se os efeitos colaterais e as mudanças de comportamento causadas pelo uso da substância experimental, levando a uma reflexão sobre os limites morais e éticos.
+
+[01:10:54 - 01:11:03] - Estratégias legais e confronto com a realidade: Os personagens lidam com as implicações legais de suas ações e confrontam a realidade de que estão envolvidos em situações perigosas e complexas.
+
+[01:12:33,880 - 01:13:45,360] - Carreira e poder: Desafios Profissionais
+
+[01:14:09,320 - 01:15:10,920] - Segurança e negócios: Proteção Financeira
+
+[01:16:03,400 - 01:16:44,280] - Relacionamentos e negociações: Cortesia Profissional
+
+[01:17:06,239 - 01:17:21,440] - Conflitos e ameaças: Pressão no Trabalho
+
+[01:18:36,159 - 01:19:20,639] - Estratégias e segredos: Ambição Empresarial
+
+[01:20:08,040 - 01:21:37,080] - Riscos e consequências: Tomada de Decisão
+
+[01:23:19,800 - 01:25:27,800] - Consequências da escolha: Impacto das Ações
+
